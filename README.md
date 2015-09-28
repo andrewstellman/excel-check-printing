@@ -1,7 +1,5 @@
-# excel-check-printing
+# Excel template for printing checks
 
-Excel template for printing checks
-==================================
 The Excel template for printing checks is an Excel file that you can use to print a check onto a sheet of laser or inkjet check paper (like [this type of paper](http://www.amazon.com/gp/product/B00L3NC8A8)). The template is set up to print the check at the top of the page, and details about the check at the bottom, which is typically the part that can be separated via perforation.
 
 This Excel file is free to use, modify, or distribute.
