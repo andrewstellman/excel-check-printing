@@ -2,6 +2,8 @@
 
 The Excel template for printing checks is an Excel file that you can use to print a check onto a sheet of laser or inkjet check paper (like [this type of paper](http://www.amazon.com/gp/product/B00L3NC8A8)). The template is set up to print the check at the top of the page, and details about the check at the bottom, which is typically the part that can be separated via perforation.
 
+Note that this template is localized to the United States.
+
 This Excel file is free to use, modify, or distribute.
 
 Before you begin
@@ -18,7 +20,8 @@ Prepare the template
 5. Change the icon in cell B1 to a different glyph using the Wingdings or Webdings font
 6. Change cell F27 to your bank's routing number
 7. Change cell F28 to your bank account number
-8. Save the template
+8. Use the dropdown list in cell 34 to choose your bank's location
+9. Save the template
 
 Using the template
 ------------------
