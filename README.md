@@ -30,7 +30,7 @@ Using the template
 3. Set the check number in cell F24 - make sure this is a new number that has not been used on a check before
 4. Set the check's "pay to the order of" recipient in cell F25
 5. Set the check amount in cell F26 (do not include the dollar sign)
-6. Print/save to a PDF
+6. Print/save to a PDF. If some of the page is cut off, change the print options from "No Scaling" to "Fit Sheet on One Page."
 7. Open the PDF and verify that it looks correct
 8. Print the PDF onto a black check
 9. Save the PDF as a record of your check
