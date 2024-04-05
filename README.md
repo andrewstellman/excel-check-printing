@@ -32,5 +32,5 @@ Using the template
 5. Set the check amount in cell F26 (do not include the dollar sign)
 6. Print/save to a PDF. If some of the page is cut off, consider unlocking the sheet, then draging and adjusting the column widths until everything shows up in the print preview, or consider changing the print options from "No Scaling" to "Fit Sheet on One Page."
 7. Open the PDF and verify that it looks correct
-8. Print the PDF onto a black check
+8. Print the PDF onto a blank check
 9. Save the PDF as a record of your check
